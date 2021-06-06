@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pedro Peixoto</h1>
+<h1 align="center">Hi people, I'm Pedro Peixoto</h1>
 
 - 📫 How to reach me **@pedro_peixoto_7**
 
