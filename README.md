@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pedro Peixoto</h1>
+
+- 📫 How to reach me **@pedro_peixoto_7**
+
+- 🐍 I like python a lot
+
+- 🌱 I’m currently learning HTML, CSS and Python
 
 <!--
 **pedro-peixoto-23/pedro-peixoto-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
