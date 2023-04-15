@@ -1,8 +1,8 @@
-<h1 align="center">Hi people, I'm Pedro Peixoto</h1>
+<h1 align="center">Olá, pessoal! Me chamo Pedro Peixoto.</h1>
 
-- 📫 How to reach me **@pedro_peixoto_7**
+- 📫 Meus contados: @
 
-- 🌱 I’m currently learning HTML and Python
+- Sobre mim: Uma pessoa que ama aprender e desbravar novos conhecimentos.
 
 <!--
 **pedro-peixoto-23/pedro-peixoto-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
