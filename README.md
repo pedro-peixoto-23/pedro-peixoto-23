@@ -1,4 +1,5 @@
 <h1 align="center">Olá, pessoal! Me chamo Pedro Peixoto.</h1>
+
 - Sobre mim: Uma pessoa que ama aprender e desbravar novos conhecimentos.
 
 <!--
