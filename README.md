@@ -1,11 +1,11 @@
-## Hi! I'm Pedro Peixoto!
+## Hi! 👋 I'm Pedro Peixoto!
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 
 ##
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-peixoto-23&show_icons=true&theme=dark&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-peixoto-23&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-peixoto-23&show_icons=true&theme=default&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-peixoto-23&layout=compact&theme=default"/>
 </div>
 
 ##
