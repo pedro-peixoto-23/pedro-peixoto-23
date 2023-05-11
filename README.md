@@ -4,8 +4,8 @@
 ##
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-peixoto-23&show_icons=true&theme=discord_old_blurple&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-peixoto-23&layout=compact&theme=discord_old_blurple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-peixoto-23&show_icons=true&theme=default&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-peixoto-23&layout=compact&theme=default"/>
 </div>
 
 ##
