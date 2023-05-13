@@ -9,7 +9,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-peixoto-23&layout=compact&theme=discord_old_blurple"/>
 </div>
 
-##
 
 <!-- ### Tecnologias -->
 <div style="display: inline_block"><br>
