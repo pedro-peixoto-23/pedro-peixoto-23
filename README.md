@@ -1,5 +1,5 @@
 ## Oii! 👋 Me chamo Pedro Peixoto!
-- 🌱 Estou estudando sobre Desenvolvimento Web e Estruturas de Dados / Algoritmos atualmente
+- 🌱 Estou estudando sobre Java, Spring Boot e Estruturas de Dados atualmente.
 
 ##
 
